@@ -1,0 +1,12 @@
+.idea
+build/
+node_modules/
+coverageEnv/
+scTopics
+coverage.json
+coverage/
+.DS_Store
+.test/
+infura-config.js
+truffle-config.js
+truffle.js
