@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
-import "./base/BaseUNTBToken.sol";
+import "./base/BaseUNTToken.sol";
 import "../node_modules/zeppelin-solidity/contracts/ownership/HasNoEther.sol";
 
 

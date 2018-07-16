@@ -4,7 +4,7 @@ pragma solidity ^0.4.19;
 import "../../node_modules/zeppelin-solidity/contracts/lifecycle/Pausable.sol";
 import "../../node_modules/zeppelin-solidity/contracts/ownership/HasNoEther.sol";
 import "../../node_modules/zeppelin-solidity/contracts/token/ERC20/DetailedERC20.sol";
-import "../interfaces/UNTBPricingStrategyInterface.sol";
+import "../interfaces/UNTPricingStrategyInterface.sol";
 import "../library/ZeppelinRefundVault.sol";
 
 

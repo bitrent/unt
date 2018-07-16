@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 
 import "../node_modules/zeppelin-solidity/contracts/lifecycle/Pausable.sol";
-import "./interfaces/UNTBPricingStrategyInterface.sol";
+import "./interfaces/UNTPricingStrategyInterface.sol";
 import "./library/SafeMath.sol";
 
 

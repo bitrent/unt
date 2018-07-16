@@ -1,4 +1,4 @@
-var UNTBMultisigWallet = artifacts.require("./UNTBMultisigWallet.sol");
+var UNTBMultisigWallet = artifacts.require("./UNTMultisigWallet.sol");
 
 // Production admin accounts
 admin1 = "0x00b437E907f61AE8a33Fb35F3Df50D55DB3d3E16";

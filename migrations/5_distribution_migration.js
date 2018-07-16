@@ -1,7 +1,7 @@
-var UNTBMultisigWallet = artifacts.require("./UNTBMultisigWallet.sol");
-var UNTBPricingStrategy = artifacts.require("./UNTBPricingStrategy.sol");
-var UNTBToken = artifacts.require("./UNTBToken.sol");
-var UNTBTokenDistribution = artifacts.require("./UNTBTokenDistribution.sol");
+var UNTBMultisigWallet = artifacts.require("./UNTMultisigWallet.sol");
+var UNTBPricingStrategy = artifacts.require("./UNTPricingStrategy.sol");
+var UNTBToken = artifacts.require("./UNTToken.sol");
+var UNTBTokenDistribution = artifacts.require("./UNTTokenDistribution.sol");
 var web3 = UNTBTokenDistribution.web3;
 
 var mainnet_token = "0x2fc04ac9f9ff178902b171e71e4aa95dd818f11a";

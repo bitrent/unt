@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
-import "./base/BaseUNTBTokenDistribution.sol";
+import "./base/BaseUNTTokenDistribution.sol";
 
 
 contract UNTBTokenDistribution is BaseUNTBTokenDistribution {
